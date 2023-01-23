@@ -3,8 +3,8 @@
 ## Visite o site <a href="https://techythoughtsblog.netlify.app/" target="_blank">Techythoughts</a>
 
 <h1 align: "center"> 
-<img src="/blog-img/20230122_231412.jpg"</>
-<img src="/blog-img/20230122_231457.jpg"</>
+<img src="https://github.com/joiceoliveiras/Projeto-blog-techythoughts/blob/master/blog-img/20230123_092348.jpg"</>
+<img src="https://github.com/joiceoliveiras/Projeto-blog-techythoughts/blob/master/blog-img/20230123_092408.jpg"</>
 </h1>
 
 ## Sobre
