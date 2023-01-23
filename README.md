@@ -1,6 +1,6 @@
 # TECHYTHOUGHTS
 
-## Visite o site <a href="https://techythoughtsblog.netlify.app/">Techythoughts</a>
+## Visite o site <a href="https://techythoughtsblog.netlify.app/" target="_blank">Techythoughts</a>
 
 <h1 align: "center"> 
 <img src="/blog-img/20230122_231412.jpg"</>
